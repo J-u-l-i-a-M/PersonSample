@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Сотрудники</string>
+    <string name="specialities">Специальности</string>
+    <string name="specialities_list">Список специальностей: </string>
+    <string name="persons">Список сотрудников</string>
+    <string name="person_info">Данные о сотруднике</string>
+    <string name="error">Что-то пошло не так. Попробуйте позднее</string>
+    <string name="wait">Ожидайте, данные скоро появятся</string>
+    <string name="age">Возраст: %s</string>
+    <string name="birth_day">Дата рождения: %s</string>
+    <plurals name="plurals_age">
+        <item quantity="zero">не указан</item>
+        <item quantity="one">%1$d год</item>
+        <item quantity="two">%1$d года</item>
+        <item quantity="few">%1$d года</item>
+        <item quantity="many">%1$d лет</item>
+        <item quantity="other">%1$d лет</item>
+    </plurals>
+</resources>
